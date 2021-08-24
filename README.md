@@ -42,7 +42,7 @@
 <p>
   <a href="https://www.acmicpc.net/user/qilip" target="_blank"><img src="https://img.shields.io/badge/Baekjoon:%20qilip-0076C0?style=flat-square&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/qilip" target="_blank"><img src="https://img.shields.io/badge/Codeforces:%20qilip-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
-  <a href="https://atcoder.jp/users/qilip" target="_blank"><img src="https://img.shields.io/badge/Atcoder:%20qilip-333333?style=flat-square&logoColor=white"/></a>
+  <a href="https://atcoder.jp/users/qilip" target="_blank"><img src="https://img.shields.io/badge/AtCoder:%20qilip-333333?style=flat-square&logoColor=white"/></a>
 </p>
 
 *앳코더는..언젠가 하겠지?*
