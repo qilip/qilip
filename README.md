@@ -8,6 +8,8 @@
 
 프로필을 꾸미고 있어요. 아마 곧 예뻐질지도?
 
+### Programming
+
 **Interests**
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
@@ -39,7 +41,7 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </p>
 
-**Algorithm**
+### Algorithm
 <p>
   <a href="https://www.acmicpc.net/user/qilip" target="_blank"><img src="https://img.shields.io/badge/Baekjoon:%20qilip-0076C0?style=flat-square&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/qilip" target="_blank"><img src="https://img.shields.io/badge/Codeforces:%20qilip-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
