@@ -4,4 +4,4 @@
 
 **Solved.ac**
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={qilip})](https://solved.ac/{qilip})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qilip)](https://solved.ac/qilip)
