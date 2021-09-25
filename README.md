@@ -1,6 +1,13 @@
+<p>
+  <a href="https://qilip.io" target="_blank"><img src="https://img.shields.io/badge/qilip.io-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="mailto:qilip@qilip.io" target="_blank"><img src="https://img.shields.io/badge/qilip@qilip.io-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://keybase.io/qilip" target="_blank"><img src="https://img.shields.io/badge/Keybase:%20qilip-33A0FF?style=flat-square&logo=keybase&logoColor=white"/></a>
+  <a href="https://kr.linkedin.com/in/sangminshin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn:%20SangminShin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</p>
+
 ### :stars: Hi!
 
-프로필을 꾸미고 있어요. 아마 곧 예뻐질지도?
+뭘 넣어야 할까요?
 
 ### Interests
 
@@ -34,12 +41,6 @@ solved.ac
 </p>
  
 <!-- 
-[![qilip's GitHub stats](https://github-readme-stats.vercel.app/api?username=qilip&count_private=true&show_icons=true&custom_title=qilip's%20GitHub%20Stats&bg_color=45,)](https://github.com/anuraghazra/github-readme-stats) -->
-[![qilip's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qilip&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-<p>
-  <a href="https://qilip.io" target="_blank"><img src="https://img.shields.io/badge/qilip.io-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="mailto:qilip@qilip.io" target="_blank"><img src="https://img.shields.io/badge/qilip@qilip.io-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://keybase.io/qilip" target="_blank"><img src="https://img.shields.io/badge/Keybase:%20qilip-33A0FF?style=flat-square&logo=keybase&logoColor=white"/></a>
-  <a href="https://kr.linkedin.com/in/sangminshin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn:%20SangminShin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-</p>
+[![qilip's GitHub stats](https://github-readme-stats.vercel.app/api?username=qilip&count_private=true&show_icons=true&custom_title=qilip's%20GitHub%20Stats&bg_color=45,)](https://github.com/anuraghazra/github-readme-stats)
+[![qilip's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qilip&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
+![qilip's Top Langs](https://github.com/qilip/github-stats/blob/master/generated/languages.svg)
