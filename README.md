@@ -39,6 +39,3 @@ solved.ac
   <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 </p>
-
-![qilip's Stats](https://github.com/qilip/github-stats/blob/master/generated/overview.svg)
-![qilip's Top Langs](https://github.com/qilip/github-stats/blob/master/generated/languages.svg)
